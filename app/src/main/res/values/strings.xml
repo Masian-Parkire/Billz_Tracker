@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">asses1</string>
+    <string name="email_is_required">Email is required</string>
+    <string name="password_is_required">Password is required</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="upcoming_bills">upcoming_bills</string>
+    <string name="paid_bills">paid_bills</string>
+    <string name="summary">Summary</string>
+    <string name="setting">settings</string>
+</resources>
